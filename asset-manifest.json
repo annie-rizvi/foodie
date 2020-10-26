@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//csce-313-project3.github.io/foodie/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/http//csce-313-project3.github.io/foodie/static/js/main.6098fe1d.chunk.js",
+    "main.js.map": "/http//csce-313-project3.github.io/foodie/static/js/main.6098fe1d.chunk.js.map",
+    "runtime-main.js": "/http//csce-313-project3.github.io/foodie/static/js/runtime-main.b36990f1.js",
+    "runtime-main.js.map": "/http//csce-313-project3.github.io/foodie/static/js/runtime-main.b36990f1.js.map",
+    "static/js/2.b913981d.chunk.js": "/http//csce-313-project3.github.io/foodie/static/js/2.b913981d.chunk.js",
+    "static/js/2.b913981d.chunk.js.map": "/http//csce-313-project3.github.io/foodie/static/js/2.b913981d.chunk.js.map",
+    "index.html": "/http//csce-313-project3.github.io/foodie/index.html",
+    "precache-manifest.40b87c101658f5e85215e515c35c5203.js": "/http//csce-313-project3.github.io/foodie/precache-manifest.40b87c101658f5e85215e515c35c5203.js",
+    "service-worker.js": "/http//csce-313-project3.github.io/foodie/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/http//csce-313-project3.github.io/foodie/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b913981d.chunk.js.LICENSE.txt": "/http//csce-313-project3.github.io/foodie/static/js/2.b913981d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b36990f1.js",
+    "static/js/2.b913981d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6098fe1d.chunk.js"
+  ]
+}
